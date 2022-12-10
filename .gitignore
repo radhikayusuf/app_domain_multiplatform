@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/lib_domain/build/
+/lib_domain/build/classes/kotlin/iosArm64/main/klib/
+/lib_domain/build/classes/kotlin/iosSimulatorArm64/main/klib/
+/lib_domain/build/classes/kotlin/iosSimulatorArm64/test/klib/
+/lib_domain/build/classes/kotlin/iosX64/main/klib/
